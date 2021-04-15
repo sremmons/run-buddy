@@ -104,12 +104,12 @@ section {
     display: block;
     padding: 7px 15px;
     color: #024e76
-    width: 100%;
+    width 100%;
     margin-bottom: 15px;
 }
 
 .hero-form label {
-    margin 0 5px;
+    margin: 0 5px;
 }
 
 .hero-form button {

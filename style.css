@@ -117,21 +117,13 @@ section {
     background-color: #024e76;
     border: none;
     padding: 10px 20px;
+    font-size: 15px;
 }
 /*hero end*/
 
 /*intro*/
 .intro {
     text-align: center;
-}
-
-.intro h2 {
-    font-size: 55px;
-    color:#024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid #fce138;
-    display: inline-block;
 }
 
 .intro p {
@@ -147,15 +139,6 @@ section {
 .steps {
     text-align: center;
     background: #fce138;
-}
-
-.steps h2 {
-    font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid #39a6b2;
-    display: inline-block;
 }
 
 .steps div {
@@ -177,3 +160,25 @@ section {
     color:#39a6b2;
     font-size: 23px;
 }
+
+.steps span {
+    font-size: 38px;
+}
+/*what you do end*/
+
+.section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+  }
+  
+  .primary-border {
+    border-color: #fce138;
+  }
+  
+  .secondary-border {
+    border-color: #39a6b2;
+  }
